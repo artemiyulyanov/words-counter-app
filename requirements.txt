@@ -1,0 +1,8 @@
+fastapi
+boto3
+celery
+redis
+pymorphy2
+openpyxl
+python-multipart
+uvicorn
